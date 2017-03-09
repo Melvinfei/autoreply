@@ -1,5 +1,6 @@
 #encoding:utf-8
 #by Liu PengFei
+#git
 
 import itchat, time
 
