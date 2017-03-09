@@ -1,4 +1,5 @@
 #encoding:utf-8
+#by Liu PengFei
 
 import itchat, time
 
