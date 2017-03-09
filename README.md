@@ -1,7 +1,6 @@
 # autoreply
 
-文件名：
-autoreply
+文件名：autoreply
 
 autoreply操作方法：
 1.进入文件夹，python autoreply.py
